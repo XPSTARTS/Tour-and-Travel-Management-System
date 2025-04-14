@@ -98,14 +98,18 @@ nav-button1
       align-items: center;
     }
   }
-.Contact-Head
+.Nav-Links
 {
      color: #eef2f7;
      text-decoration: none;
      position: relative;
      font-weight: 500;
-     bottom: 5px;
+     bottom: 8px;
 }
-.Contact-Head:hover {
-    font-weight: bolder;      
+.Nav-Links:hover {
+    color: rgba(19, 24, 19, 0.774); 
   }
+.Home-link:hover
+{
+    color: rgba(19, 24, 19, 0.774); 
+}  
