@@ -5,6 +5,7 @@ nav-button1 {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: sans-serif;
 }
 
 body {
@@ -106,6 +107,9 @@ p {
 }
 .dropdown-menu:hover
 {
-     background-color: rgba(31, 30, 30, 0.356);
+     background-color: rgba(155, 98, 98, 0.589);
      color: #f4f4f4;
+}
+body{
+  min-height: 100vh;
 }
